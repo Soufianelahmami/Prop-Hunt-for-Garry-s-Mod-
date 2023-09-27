@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"Prop Hunt for Garry's Mod 1","desc":"Gmod Prop Hunt Download: Get ready to dive into the excitement by securing our captivating prop hunt game mode download. With just a few simple clicks, you'll be on your way to an unforgettable gaming experience.","photo":"https://iili.io/JJbTYCB.png"},
+  {"title":"Prop Hunt for Garry's Mod 2","desc":"A Twist on Hide and Seek in Garry's Mod: Immerse yourself in the world of prop hunting, an exciting and challenging modification that tests your ability to blend into your surroundings. Will you outsmart your opponents and remain hidden?","photo":"https://iili.io/JJbT5QV.jpg"},
+  {"title":"Prop Hunt for Garry's Mod 3","desc":"Join the Garry’s Mod Hide and Seek Community: Become part of the Garry's Mod community and participate in epic battles centered around prop hunting. Whether you're a seasoned player or new to the game, there's always room for more seekers and hiders seeking adventure in this dynamic realm.","photo":"https://iili.io/JJbTaEP.jpg"},
+  {"title":"Prop Hunt for Garry's Mod 4","desc":"Addon for Prop Hunt Mode in Gmod: Enhance your Garry's Mod experience by adding our prop hunt addon, introducing new features, maps, and props to keep the excitement going.","photo":"https://iili.io/JJbTc41.jpg"},
+  {"title":"Prop Hunt for Garry's Mod 5","desc":"Pranks During Hide and Seek Sessions: If you enjoy moments filled with laughter,Prop Hunt Garry's Mod Hide and Seek Trolling will have you in stitches as you witness resourceful players pulling off exceptional antics.","photo":"https://iili.io/JJbTRhQ.jpg"},
+  {"title":"Prop Hunt for Garry's Mod 6","desc":"Revamped Hide and Seek Gameplay: Play hide and seek like never before in Garry's Mod. Collaborate with friends or go solo as you try to spot or hide from others in extraordinary environments designed to challenge your senses and provide thrilling moments of gameplay.","photo":"https://iili.io/JJbT03F.jpg"},
+  {"title":"Prop Hunt for Garry's Mod 7","desc":"Prepare yourself to step into the thrilling world of Prop Hunt for Garry's Mod,where the classic game of hide-and-seek takes on new levels of excitement and strategy! If you're a fan of Garry's Mod and enjoy the timeless game of hide-and-seek, get ready for an exhilarating journey.","photo":"https://iili.io/JJbT03F.jpg"},
+  {"title":"Prop Hunt for Garry's Mod 8","desc":"Our prop hunt game mode offers a unique twist on traditional gameplay, ensuring endless enjoyment for players of all skill levels.","photo":"https://iili.io/JJbT1Yg.jpg"}
    ]
  
 }
